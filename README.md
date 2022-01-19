@@ -1,6 +1,10 @@
 ### Hi there 👋
 
+<a href="https://www.google.com">clique aqui</a>
+
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 <!--
+
 **AnaMotta223/AnaMotta223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
