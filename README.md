@@ -26,3 +26,7 @@
 - 👯 I’m looking to collaborate on different kinds of projects, giving ideas and sharing my knowledge;
 - 💬 Ask me about programming logic, C#, Python, HTML or CSS;
 - ⚡ Fun fact: I'm a high school student who is going to study computer engineering in college
+ 
+##
+
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
