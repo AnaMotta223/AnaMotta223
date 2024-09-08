@@ -1,4 +1,4 @@
-## Hi there!! I'm Ana Luiza Motta
+## Hi there!! I'm Ana Luiza 
  
 <div>
  <a href="https://github.com/AnaMotta223">
@@ -8,9 +8,11 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ana-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Ana-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ana-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ana-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ana-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ##
@@ -22,9 +24,9 @@
 
 ##
 
-- 🌱 I’m currently learning more about Python, HTML and CSS and also studying Javascript;
+- 🌱 I’m currently studying to become a full-stack developer;
 - 👯 I’m looking to collaborate on different kinds of projects, giving ideas and sharing my knowledge;
-- 💬 Ask me about programming logic, C#, Python, HTML or CSS;
+- 💬 Ask me about C#, Python, HTML or CSS;
  
 ##
 
