@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently studying to become a full-stack developer;
 - 👯 I’m looking to collaborate on different kinds of projects, giving ideas, helping people and sharing my knowledge;
-- 💬 Ask me about C#, Python, HTML or CSS;
+  <!--- 💬 Ask me about C#, Python, HTML or CSS;!-->
  
 ##
 
