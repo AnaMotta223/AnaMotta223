@@ -15,11 +15,6 @@
 
 <br clear="both">
 
-<div align="center">
- <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=AnaMotta223&show_icons=true&theme=tokyonight&include_all-commits=true&count_private=true"/>
- <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMotta223&layout=compact&langs_count=16&theme=tokyonight"/>
-</div>
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
