@@ -1,6 +1,6 @@
 <h1>Olá! 👋🏻 me chamo Ana Luiza 👩🏻‍💻</h1>
 
-<h3>Sou uma estudante apaixonada por tecnologia, atualmente iniciando minha carreira na área. Comecei meus estudos em 2020, com muito interesse nas áreas de desenvolvimento de jogos e backend. Atualmente, mesmo mantendo esses interesses, busco me desenvolver mais em outras áreas como frontend e desenvolvimento mobile, integrando meus conhecimentos. Estou sempre em busca de me aprimorar e aprender coisas novas. Busco poder contribuir em diferentes projetos e também auxiliar outras pessoas a se desenvolverem na programação, trocando experiências e aprendizados. </h3>
+<h3>Sou uma apaixonada por tecnologia, atualmente iniciando minha carreira na área de desenvolvimento. Comecei meus estudos em 2020, com muito interesse nas áreas de desenvolvimento de jogos e backend. Atualmente, mesmo mantendo esses interesses, busco me desenvolver mais em outras áreas como frontend e desenvolvimento mobile, integrando meus conhecimentos. Estou sempre em busca de me aprimorar e aprender coisas novas. Busco poder contribuir em diferentes projetos e também auxiliar outras pessoas a se desenvolverem na programação, trocando experiências e aprendizados. </h3>
 
 <br clear="both">
 
